@@ -1,0 +1,6 @@
+com\krakedev\entidades\Curso.class
+com\krakedev\entidades\Nota.class
+com\krakedev\entidades\Materia.class
+com\krakedev\entidades\Estudiante.class
+com\krakedev\test\TestCurso.class
+com\krakedev\test\TestEstudiante.class
